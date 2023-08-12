@@ -1,7 +1,9 @@
 body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
+    font-family: Graphik LC TT,sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+
+    
 }
 
 header {
@@ -49,3 +51,7 @@ footer {
 .animated {
     animation: fadeIn 1s ease-in-out;
 }
+
+
+/* for a href links */
+
